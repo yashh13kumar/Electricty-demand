@@ -47,6 +47,3 @@ To run the notebook:
  Submission  
 The executed Google Colab notebook is included for reference.  
 
----
-
-This README is clean, professional, and to the point while covering all required aspects of your project. Let me know if you’d like any modifications! 🚀
